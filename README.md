@@ -5,17 +5,20 @@
    - Vue
    - React
    - PHP
+
 - 🔨 I'm currently working on
     - MX Marvin Horizon
     - Backwoods Hosting CMS
+
 - 🤪 About Me
     - My name is Marve
     - Backwoods Hosting - COO
     - MX Marvin - Founder and CEO
-    - I play the following games:
-        - Scrap Mechanic
-        - Minecraft
-        - Satisfactory
-        - Fortnite
-        - Apex Legends
+ 
+ - 🎮 I play these games
+     - Scrap Mechanic
+     - Minecraft
+     - Satisfactory
+     - Fortnite
+     - Apex Legends
 

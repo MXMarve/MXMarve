@@ -7,6 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxmarve&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,vue,react,php,laravel,php,node" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,vue,react,php,node,laravel,docker,vscode" />
   </a>
 </p>

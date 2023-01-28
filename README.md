@@ -5,5 +5,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxmarve&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxmarve&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My Languages](https://skillicons.dev/icons?i=js,html,css,vue,python,php,react)](https://skillicons.dev)  
+<p style="align:center"
+  <img src="https://skillicons.dev/icons?i=html,js,css,vue,react,php,laravel,php,node" />  
+</p>
